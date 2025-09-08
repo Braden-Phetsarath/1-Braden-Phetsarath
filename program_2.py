@@ -1,9 +1,3 @@
-def proverbs_22_29():
-    # Write your Proverbs 22:29 code below
-    print('...')
-    
-
-proverbs_22_29()
 #Braden Phetsarath
 #9/2/2025
 # proverbs 22:29
